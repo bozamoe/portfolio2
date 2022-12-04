@@ -1,0 +1,77 @@
+
+
+/* Header Styling*/
+header {
+  height:140px;
+  background-color:#0B0C10;
+  text-align:center;
+  
+}
+
+.headerfont {
+  padding: 20px;
+  color: #66FCF1;
+  font-family:impact;
+  letter-spacing: 2px;
+  text-align:center;
+}
+
+.h3headerfont {
+ letter-spacing: 2.5px;
+  font-style:bold;
+  font-size: 30px;
+}
+
+/* Main background styles */
+
+section {
+padding: 50px;
+  margin: 50px;
+}
+
+body {
+  margin:0;
+  background: #0B0C10;
+  font-color:white;
+  
+}
+
+h1 {
+  color:#c5c6c7;
+  text-align:center;
+  font-size:20px;
+  font-family: impact;
+  letter-spacing:1px;
+  text-transform:uppercase;
+  }
+
+p {
+  color: #c5c6c7;
+  text-align: center;
+  font-family: impact;
+  margin-bottom:0;
+}
+
+li {
+  color: #c5c6c7;
+  list-style-position:inside;
+  text-align:center;
+  
+
+}
+
+img, iframe { 
+  width: 100%;	
+  border-radius: 8px;
+  border: 1px solid #1F2833;
+} 
+
+.border-top {
+  padding-top: 80px;
+  border-top: 2px solid #403933;
+}
+
+footer {
+  background-color:#1F2833;  
+  margin-top: 1;
+}
